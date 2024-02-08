@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/melikkutluay/personal-stack">
 </a>
 
-<a href="https://melikkutluay.medium.com">Personal Medium Blog
+<a href="https://melikkutluay.medium.com">
     <img src="https://img.shields.io/badge/medium-blog-0690fa.svg" alt="https://melikkutluay.medium.com">
 </a>
