@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://melikkutluay.medium.com">Personal Medium Blog
-    <img alt="https://melikkutluay.medium.com">
+    <img src="https://img.shields.io/badge/medium-blog-0690fa.svg" alt="https://melikkutluay.medium.com">
 </a>
