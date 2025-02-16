@@ -35,7 +35,7 @@ If you wanna check out my tech stack, you can find more at badge on below.<br/>
 -->
 <a href="https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=false"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=false"/></a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false"><img width=270 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false"/></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/></a>
 <!--
 ![melikkutluay's Stats](https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![melikkutluay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false)
