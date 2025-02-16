@@ -32,8 +32,3 @@ If you wanna check out my stack you can find more at tech stack badge on below.<
 
 | <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melikkutluay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&langs_count=8&theme=radical"/>
-<br/>
-[![GitHub followers](https://img.shields.io/github/followers/melikkutluay?style=social)](https://www.github.com/melikkutluay)
