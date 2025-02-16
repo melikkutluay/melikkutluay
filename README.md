@@ -19,7 +19,7 @@ I'm software and devops enginer,I work code on generation web applications and I
 ## What I'm use
 I prefer all of tools for devops structures and also NodeJs, GO and JAVA technologies for back-end development 🌱
 <br/>
-If you wanna check out my stack you can find more at tech stack badge on below.<br/>
+If you wanna check out my tech stack, you can find more at badge on below.<br/>
 <a href="https://stackshare.io/melikkutluay/personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/melikkutluay/personal-stack">
 </a>
