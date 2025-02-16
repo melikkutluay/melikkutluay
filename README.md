@@ -28,3 +28,11 @@ If you wanna check out my blog you can find more at topic on below.<br/>
 <a href="https://melikkutluay.medium.com">
     <img src="https://img.shields.io/badge/medium-blog-0690fa.svg" alt="https://melikkutluay.medium.com">
 </a>
+
+
+## ⚙️ GitHub Analytics
+
+| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melikkutluay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&langs_count=8&theme=radical"/>   
+| -
+
+[![GitHub followers](https://img.shields.io/github/followers/melikkutluay?style=social)](https://www.github.com/melikkutluay)
