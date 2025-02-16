@@ -30,5 +30,7 @@ If you wanna check out my tech stack, you can find more at badge on below.<br/>
 ## ⚙️ GitHub Analytics
 
 
-| <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Melik's github stats" /></a> | <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Melik's github stats" /></a> | <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
+
+![melikkutluay's Stats](https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
