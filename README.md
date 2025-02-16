@@ -29,6 +29,6 @@ If you wanna check out my stack you can find more at tech stack badge on below.<
 
 ## ⚙️ GitHub Analytics
 
-| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melikkutluay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melikkutluay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&langs_count=8&theme=radical"/>
 <br/>
 [![GitHub followers](https://img.shields.io/github/followers/melikkutluay?style=social)](https://www.github.com/melikkutluay)
