@@ -23,11 +23,8 @@ If you wanna check out my stack you can find more at tech stack badge on below.<
 <a href="https://stackshare.io/melikkutluay/personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/melikkutluay/personal-stack">
 </a>
-#<br/>
-#If you wanna check out my blog you can find more at topic on below.<br/>
-#<a href="https://melikkutluay.medium.com">
-#    <img src="https://img.shields.io/badge/medium-blog-0690fa.svg" alt="https://melikkutluay.medium.com">
-#</a>
+#<br/>If you wanna check out my blog you can find more at topic on below.<br/>
+#<a href="https://melikkutluay.medium.com"><img src="https://img.shields.io/badge/medium-blog-0690fa.svg" alt="https://melikkutluay.medium.com"></a>
 
 
 ## ⚙️ GitHub Analytics
