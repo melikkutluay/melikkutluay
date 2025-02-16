@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **melikkutluay/melikkutluay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Melik here,I'm software and devops enginer,interested in everything but my speciality is web applications and devops structures. 🔭
+I'm software and devops enginer,I work code on generation web applications and I create devops structures. 🔭
 <br/>
 ## What I'm use
 I prefer all of tools for devops structures and also NodeJs technologies for back-end development but I love everything about JS 🌱
