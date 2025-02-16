@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm software and devops enginer,I work code on generation web applications and I create devops structures. 🔭
 <br/>
 ## What I'm use
-I prefer all of tools for devops structures and also NodeJs technologies for back-end development but I love everything about JS 🌱
+I prefer all of tools for devops structures and also NodeJs technologies for back-end development 🌱
 <br/>
 If you wanna check out my stack you can find more at tech stack badge on below.<br/>
 <a href="https://stackshare.io/melikkutluay/personal-stack">
