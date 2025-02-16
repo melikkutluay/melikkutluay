@@ -21,7 +21,7 @@ I prefer all of tools for devops structures and also NodeJs, GO and JAVA technol
 <br/>
 If you wanna check out my tech stack, you can find more at badge on below.<br/>
 <a href="https://stackshare.io/melikkutluay/personal-stack">
-    <img src="https://img.shields.io/badge/any_text-you_like-Pistachio" alt="https://stackshare.io/melikkutluay/personal-stack">
+    <img src="https://img.shields.io/badge/tech-stack-Pistachio" alt="https://stackshare.io/melikkutluay/personal-stack">
 </a>
 <!--<br/>If you wanna check out my blog you can find more at topic on below.<br/>
 <a href="https://melikkutluay.medium.com"><img src="https://img.shields.io/badge/medium-blog-0690fa.svg" alt="https://melikkutluay.medium.com"></a>
