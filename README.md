@@ -33,12 +33,12 @@ If you wanna check out my tech stack, you can find more at badge on below.<br/>
 | <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Melik's github stats" /></a> | <a href="https://github.com/melikkutluay/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&layout=compact&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
 -->
-<a href="https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=false"><img width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=false"/></a>
+<!--<a href="https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=false"><img width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=false"/></a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false"><img width=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false"/></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"><img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/></a>
-<!--
+-->
+
 ![melikkutluay's Stats](https://github-readme-stats.vercel.app/api?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![melikkutluay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false)
+<!--![melikkutluay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=melikkutluay&theme=highcontrast&hide_border=false)-->
 ![melikkutluay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melikkutluay&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
--->
